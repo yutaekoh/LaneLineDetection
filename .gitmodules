@@ -1,0 +1,3 @@
+[submodule "PolyLaneNet"]
+	path = PolyLaneNet
+	url = https://github.com/juuwong/PolyLaneNet
