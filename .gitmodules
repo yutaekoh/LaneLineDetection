@@ -1,3 +1,6 @@
 [submodule "PolyLaneNet"]
 	path = PolyLaneNet
 	url = https://github.com/juuwong/PolyLaneNet
+[submodule "Robust-Lane-Detection"]
+	path = Robust-Lane-Detection
+	url = https://github.com/yutaekoh/Robust-Lane-Detection.git
