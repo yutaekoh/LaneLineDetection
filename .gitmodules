@@ -4,3 +4,6 @@
 [submodule "Robust-Lane-Detection"]
 	path = Robust-Lane-Detection
 	url = https://github.com/yutaekoh/Robust-Lane-Detection.git
+[submodule "LaneLinePiNet"]
+	path = LaneLinePiNet
+	url = https://github.com/gnigri/LaneLinePiNet.git
